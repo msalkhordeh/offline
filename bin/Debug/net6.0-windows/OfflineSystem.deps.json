@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OfflineSystem/1.0.0": {
+        "runtime": {
+          "OfflineSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OfflineSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
